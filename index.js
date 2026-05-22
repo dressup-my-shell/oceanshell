@@ -56,3 +56,4 @@ function getSeaQuote() {
 }
 
 module.exports = { getPrompt, getBanner, getPS1, generateTide, getSeaQuote };
+
