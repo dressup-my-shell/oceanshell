@@ -9,10 +9,23 @@
   "scripts": {
     "test": "node test.js"
   },
-  "keywords": ["terminal", "prompt", "shell", "theme", "ocean", "nautical", "sea", "waves", "cli"],
+  "keywords": [
+    "terminal",
+    "prompt",
+    "shell",
+    "theme",
+    "ocean",
+    "nautical",
+    "sea",
+    "waves",
+    "cli"
+  ],
   "author": "dressup-my-shell",
   "license": "MIT",
   "dependencies": {
-    "chalk": "^4.1.2"
+    "chalk": "^4.1.2",
+    "figlet": "^1.7.0",
+    "inquirer": "^8.2.6",
+    "ora": "^5.4.1"
   }
 }
