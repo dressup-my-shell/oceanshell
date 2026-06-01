@@ -23,6 +23,7 @@
   "author": "dressup-my-shell",
   "license": "MIT",
   "dependencies": {
+    "@shellcrafts/colorize": "^1.0.0",
     "chalk": "^4.1.2",
     "figlet": "^1.7.0",
     "inquirer": "^8.2.6",
